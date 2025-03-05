@@ -48,8 +48,8 @@ Kahoot Data Extractor is a Python-based tool that uses Selenium to scrape quiz d
 1. Enter URLs:
 
     ```
-    https://kahoot.com/example1
-    https://kahoot.com/example2
+    https://create.kahoot.it/details/<uuid_x>
+    https://create.kahoot.it/details/<uuid_y>
     ```
 
 2. Enter output filename:
